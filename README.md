@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Bootcamp Project</title>
+  Bootcamp Project
 </head>
 <body>
   <h1>Hello Students 👋</h1>
